@@ -1,4 +1,5 @@
-<font size="5">**Avaloq AZ-104 Course Material**</font><br />
+<span style="color: blue"><font size= "7">**Avaloq AZ-104 Course Material**</font></span> <br /> <br />
+
 <font size="4">**Useful Links:**</font><br />
 
 Prerequisites
