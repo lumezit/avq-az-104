@@ -1,6 +1,6 @@
-<B><font size="20">Avaloq AZ-104 Course Material</font>
-<font size="10">Useful Links:</font>
-</B>
+<font size="5">**Avaloq AZ-104 Course Material**</font><br />
+<font size="4">**Useful Links:**</font><br />
+
 Prerequisites
 https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/.
 
