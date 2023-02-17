@@ -33,8 +33,7 @@ https://azure.microsoft.com/en-us/blog
 Microsoft Learning Community Blog<br />
 https://www.microsoft.com/en-us/learning/community-blog.aspx
 
-**Module 1**<br />
-Administer Identity<br />
+**Module 1 - Administer Identity**<br />
 What is Azure Active Directory? - https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis
 
 Azure AD Terminology - https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis#terminology
