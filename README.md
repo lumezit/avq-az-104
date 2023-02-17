@@ -1,39 +1,39 @@
-<span style="color: blue"><font size= "7">**Avaloq AZ-104 Course Material**</font></span> <br /> <br />
+**Avaloq AZ-104 Course Material**<br />
+**Useful Links:**</font><br />
 
-<font size="4">**Useful Links:**</font><br />
-
-Prerequisites
+Prerequisites<br />
 https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/.
 
-Certifications and Exams
+Certifications and Exams<br />
 https://docs.microsoft.com/certifications/browse/
 https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
 
-Study Guide with objective domain
+Study Guide with objective domain<br />
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
 
-Microsoft Learn exam readiness
+Microsoft Learn exam readiness<br />
 https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?terms=az-104
 
-Azure Documentation
+Azure Documentation<br />
 https://docs.microsoft.com/en-us/azure/
 
-Azure Forums
+Azure Forums<br />
 https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform
 
-Azure Tuesday with Core
+Azure Tuesday with Core<br />
 https://channel9.msdn.com/Shows/Tuesdays-With-Corey/
 
-Azure Fridays
+Azure Fridays<br />
 https://channel9.msdn.com/Shows/Azure-Friday
 
-Azure Blog
+Azure Blog<br />
 https://azure.microsoft.com/en-us/blog
 
-Microsoft Learning Community Blog
+Microsoft Learning Community Blog<br />
 https://www.microsoft.com/en-us/learning/community-blog.aspx
 
-Module 1 - Administer Identity
+**Module 1**<br />
+Administer Identity<br />
 What is Azure Active Directory? - https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis
 
 Azure AD Terminology - https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis#terminology
