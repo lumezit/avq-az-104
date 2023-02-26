@@ -19,6 +19,8 @@ Change your Azure subscription to a different offer - https://docs.microsoft.com
 
 Subscription decision guide - https://docs.microsoft.com/azure/cloud-adoption-framework/decision-guides/subscriptions/
 
+**SANDBOX** Plan and manage your Azure Costs https://learn.microsoft.com/en-us/training/modules/manage-users-and-groups-in-aad/
+
 Manage Azure Resource Manager resource groups by using the Azure portal - https://docs.microsoft.com/azure/azure-resource-manager/management/manage-resource-groups-portal
 
 Azure subscription and service limits, quotas, and constraints - https://docs.microsoft.com/azure/azure-resource-manager/management/azure-subscription-service-limits
@@ -51,3 +53,26 @@ Grant a user access to Azure resources using the Azure portal - https://docs.mic
 
 Check access for a user to Azure resources - https://docs.microsoft.com/azure/role-based-access-control/check-access
 
+Azure built-in roles https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles
+
+**SANDBOX** Secure your Azure resources with Azure role-based access control (Azure RBAC) https://learn.microsoft.com/en-us/training/modules/secure-azure-resources-with-rbac/
+
+Azure Resource Provider Operations https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations
+
+Azure Policy Samples https://learn.microsoft.com/en-us/azure/governance/Policy/samples/
+
+**Github Repo** Azure Policy https://github.com/Azure/azure-Policy
+
+Tag support for Azure resources https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/tag-support
+
+Move operation support for resources https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/move-support-resources
+
+Transfer billing ownership of an MOSP Azure subscription to another account https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/billing-subscription-transfer
+
+Associate or add an Azure subscription to your Azure Active Directory tenant https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory
+
+Azure Credit offers in your region https://azure.microsoft.com/en-us/regions/offers/
+
+Azure roles, Azure AD roles, and classic subscription administrator roles https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles
+
+**Knowledge Check** https://forms.office.com/r/aRDPyPB9iF
