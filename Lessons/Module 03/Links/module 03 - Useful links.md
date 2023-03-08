@@ -15,6 +15,26 @@ Azure ExpressRoute https://docs.microsoft.com/learn/modules/describe-azure-compu
 
 Azure DNS https://docs.microsoft.com/learn/modules/describe-azure-compute-networking-services/12-domain-name-system
 
+Azure DevOps https://azure.microsoft.com/en-us/products/devops
+
+Azure DevTest Labs https://azure.microsoft.com/en-us/products/devtest-lab
+
+Azure IoT Central https://azure.microsoft.com/en-us/products/iot-central/
+
+Azure Sphere https://azure.microsoft.com/en-us/products/azure-sphere/
+
+Azure Cognitive Services https://azure.microsoft.com/en-us/products/cognitive-services/?&ef_id=EAIaIQobChMI2Zu4prWu_QIVF4fVCh2DLgQHEAAYASAAEgKydfD_BwE:G:s&OCID=AIDcmmtg9dwtad_SEM_EAIaIQobChMI2Zu4prWu_QIVF4fVCh2DLgQHEAAYASAAEgKydfD_BwE:G:s&gclid=EAIaIQobChMI2Zu4prWu_QIVF4fVCh2DLgQHEAAYASAAEgKydfD_BwE#overview
+
+Azure Bot Service https://azure.microsoft.com/en-us/products/bot-services
+
+Machine Learning Studio https://studio.azureml.net/
+
+Azure Machine Learning https://azure.microsoft.com/en-us/products/machine-learning/
+
+Azure Logic Apps https://azure.microsoft.com/en-us/products/logic-apps
+
+Event Grid https://azure.microsoft.com/en-us/products/event-grid
+
 Azure Portal Documentation https://learn.microsoft.com/en-us/azure/azure-portal/
 
 Azure PowerShell Documentation https://learn.microsoft.com/en-us/powershell/azure/?view=azps-9.4.0
@@ -59,6 +79,7 @@ VM Template Example https://learn.microsoft.com/mt-mt/azure/marketplace/azure-vm
 
 Azure Custom Script Example https://learn.microsoft.com/en-in/azure/virtual-machines/extensions/custom-script-linux
 
+**Knowledge Check** https://forms.office.com/r/CWgZBXcavd
 
 
 
