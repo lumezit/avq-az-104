@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: tetris
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: tetris
+  template:
+    metadata:
+      labels:
+        app: tetris
+    spec:
+      containers:
+      - name: tetris
+        image: {{acr_name}}/app/tetris:1.0 # image in ACR
+        resources: # include resources for better scheduling
+          requests:
+            cpu: 100m
+            memory: 128Mi
+          limits:
+            cpu: 250m
+            memory: 256Mi
+        ports:
+        - containerPort: 8000
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: tetris
+spec:
+  ports:
+  - port: 80 # Access on service port 80
+    protocol: TCP
+    targetPort: 8000
+  selector:
+    app: tetris
+  type: LoadBalancer # External Access via load balancer service
